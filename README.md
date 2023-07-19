@@ -8,7 +8,7 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 
 * 🌍  I'm based in Ukraine, Kyiv
 * ✉️  You can contact me at [batalshikov.d@gmail.com](mailto:batalshikov.d@gmail.com)
-* 🧠  I'm learning JavaScript, (React)
+* 🧠  I'm learning JavaScript, React
 * 🤝  I'm open to collaborating on an interesting project as part of a professional team
 
 ### mySkills
