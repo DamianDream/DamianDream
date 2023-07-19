@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima Batalshikov
 ========================================================================================================================================
 
-Front-end Developer
+I'm Front-end Developer
 -------------------
 
 I'm JavaScript Developer, with a passion for creating clear code and implementing beautiful Ui/UX design and functionality projects.
@@ -11,7 +11,7 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 * 🧠  I'm learning JavaScript, (React)
 * 🤝  I'm open to collaborating on an interesting project as part of a professional team
 
-### Skills
+### mySkills
 
 
 <p align="left">
@@ -25,7 +25,7 @@ I'm JavaScript Developer, with a passion for creating clear code and implementin
 </p>
 
 
-### Socials
+### mySocials
 
 <p align="left"> 
   <a href="https://www.facebook.com/dima.batalschykov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
