@@ -31,3 +31,5 @@ I'm a front-end developer with a passion for coding. I'm always seeking opportun
 <a href="https://fb.com/dima.batalschykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dima.batalschykov" height="30" width="40" /></a>
 <a href="https://instagram.com/it_immigrant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_immigrant_" height="30" width="40" /></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/batalshikov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
