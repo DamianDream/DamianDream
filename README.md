@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 -------------------
 I'm a front-end developer with a passion for coding. I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
 - 🧠  I’m currently learning **Typescript & Test Driven Development**
-- 🌍  I'm based in **Ukraine, Kyiv**
+- 🌍  I'm from **Ukraine, Kyiv**
 - 💬 Ask me about **React, Redux, JavaScript**
 - ✉️  How to reach me **batalshikov.d@gmail.com**
 - 🤝  I'm open to collaborating on an interesting project as part of a professional team
