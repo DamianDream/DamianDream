@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima
-=============================
-Welcome to my GitHub profile!
-----------------
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Hi,%20My%20name%20is%20Dima&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
+-------------------
 I'm a front-end developer with a passion for coding. I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
 - 🧠  I’m currently learning **Typescript & Test Driven Development**
 - 🌍  I'm from **Ukraine, Kyiv**
