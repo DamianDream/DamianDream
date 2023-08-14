@@ -6,7 +6,6 @@
     <span style="font-size:24px; font-weight:normal;">Welcome to my GitHub profile!</span>
 </p>
 
--------------------
 I'm a front-end developer with a passion for coding. I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
 - 🧠  I’m currently learning **Typescript & Test Driven Development**
 - 🌍  I'm from **Ukraine, Kyiv**
