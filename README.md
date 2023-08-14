@@ -42,4 +42,4 @@ I'm a front-end developer with a passion for coding. I'm always seeking opportun
 <a href="https://instagram.com/it_immigrant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_immigrant_" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DamianDream/DamianDream/blob/output/github-contribution-grid-snake.gif)
