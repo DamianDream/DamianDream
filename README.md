@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api? &animation=fadeIn&type=waving&color=gradient&height=80"/>
+<!--     <img src="https://capsule-render.vercel.app/api? &animation=fadeIn&type=waving&color=gradient&height=80"/> -->
     <span style="font-size:36px; font-weight:bold;">Hi</span>
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
     <span style="font-size:36px; font-weight:bold;">My name is Dima</span><br>
