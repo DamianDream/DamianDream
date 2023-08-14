@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dima
-
+=============================
 Welcome to my GitHub profile!
 ----------------
 I'm a front-end developer with a passion for coding. I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
