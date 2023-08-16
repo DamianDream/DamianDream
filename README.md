@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi,%20My%20name%20is%20Dima&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 <br>
-I'm a front-end developer with a passion for coding. I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
+I'm a front-end developer with 2+ years of experience and passion for coding.
+I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
 - 🧠  I’m currently learning **Typescript & Test Driven Development**
 - 🌍  I'm from **Ukraine, Kyiv**
 - 💬 Ask me about **React, JavaScript**
