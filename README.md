@@ -2,7 +2,7 @@
 <br>
 
 I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
-- 🧠  I’m currently learning **Typescript & Test Driven Development**
+- 🧠  I’m currently learning **Typescript & Next.js**
 - 🌍  I'm from **Ukraine, Kyiv**
 - 💬 Ask me about **React, JavaScript**
 - ✉️  How to reach me **batalshikov.d@gmail.com**
