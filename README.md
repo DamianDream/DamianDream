@@ -2,7 +2,7 @@
 <br>
 
 I'm always seeking opportunities to expand my skill set and take on new challenges in front-end development.
-- 🧠  I’m currently learning to become <a href="https://astro.build/" target="_blank">Astronaut</a>
+- 🧠  I’m currently learning to become Astronaut! <a href="https://astro.build/" target="_blank">Link to Astro</a>
 - 🌍  I'm from **Ukraine, Kyiv**
 - ✉️  How to reach me **batalshikov.d@gmail.com**
 - 🤝  I'm open to collaborating
