@@ -20,6 +20,6 @@ I'm always seeking opportunities to expand my skill set and take on new challeng
 > 0.1 + 0.2 == 0.3 // -> false
 > 
 > Want to know why...
-> 0.1 + 0.2 // return => 0.30000000000000004
+> 0.1 + 0.2 // will output => 0.30000000000000004
 > ```
 
