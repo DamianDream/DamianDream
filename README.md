@@ -17,7 +17,8 @@ I'm always seeking opportunities to expand my skill set and take on new challeng
 
 ### The power of JavaScript
 > ```js
-> 0.1 + 0.2 == 0.3 // -> false
+> Compare two number 0.3 and sum of (0.1 + 0.2) will they be equal? 
+> (0.1 + 0.2) == 0.3  // => JS says FALSE!
 > 
 > Want to know why...
 > 0.1 + 0.2 // will output => 0.30000000000000004
