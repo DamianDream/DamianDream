@@ -32,11 +32,3 @@ I'm always seeking opportunities to expand my skill set and take on new challeng
 > 0.1 + 0.2 // -> 0.30000000000000004
 > ```
 
-
-### mySocials
-<p align="left">
-<a href="https://linkedin.com/in/batalshykov-dima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batalshykov-dima" height="30" width="40" /></a>
-<a href="https://fb.com/dima.batalschykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dima.batalschykov" height="30" width="40" /></a>
-<a href="https://instagram.com/it_immigrant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_immigrant_" height="30" width="40" /></a>
-</p>
-
