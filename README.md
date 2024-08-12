@@ -15,8 +15,7 @@ I'm always seeking opportunities to expand my skill set and take on new challeng
 
 <!-- Icons generated using GPRM ( https://gprm.itsvg.in ) -->
 
-### funCode
-> The power of JavaScript in Precision!
+### The power of JavaScript
 > ```js
 > 0.1 + 0.2 == 0.3 // -> false
 > 
